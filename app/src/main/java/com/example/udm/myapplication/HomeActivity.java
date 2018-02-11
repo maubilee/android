@@ -12,5 +12,6 @@ public class HomeActivity extends AppCompatActivity {
 
         //this is a test for github
         //this is branch1
+        //this is only branch2
     }
 }
