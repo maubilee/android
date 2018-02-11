@@ -11,5 +11,6 @@ public class HomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_home);
 
         //this is a test for github
+        //this is branch1
     }
 }
